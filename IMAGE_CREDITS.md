@@ -10,6 +10,8 @@ The following replacement photographs were downloaded from Wikimedia Commons and
 - `sla-battery.webp` — [12V VRLA Gel Battery](https://commons.wikimedia.org/wiki/File:12V_VRLA_Gel_Battery.jpg), Paxtonphan, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - `renewable-battery-bank.webp` — [Power backup for solar panels near Leh](https://commons.wikimedia.org/wiki/File:Power_backup_for_solar_panels_near_Leh_(4337361606).jpg), Kiran Jonnalagadda, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
 - `power-sonic-ps-12120.webp` — [Power-Sonic PS-12120 product image](https://www.power-sonic.com/product/ps-12120-12121/), provided by Power-Sonic. Power-Sonic and its product artwork remain the property of their respective owner.
+- `crown-marine-starter.webp`, `crown-marine-deep-cycle.webp`, and `crown-marine-agm.webp` — product images from Crown Battery's official [Marine/Recreational Watercraft](https://www.crownbattery.com/marine-recreational-watercraft) lineup. Crown and its product artwork remain the property of their respective owner.
+- `yuasa-powersports-ytx14l.webp` — Yuasa YTX14L-BS product image from Yuasa Battery's official [Powersports Batteries](https://www.yuasabatteries.com/batteries/powersports-batteries/) lineup. Yuasa and its product artwork remain the property of their respective owner.
 
 The files have been resized and converted to WebP for website performance. The original image subjects have not otherwise been materially altered.
 
